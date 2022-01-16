@@ -6,7 +6,7 @@ var config = {
     theme: 'dark',
     use3dTerrain: false,
     title: 'Visualizing War',
-    subtitle: 'Placing Yemen’s Heritage Destruction on the Map',
+    subtitle: 'Mapping Destruction of Heritage in Yemen',
     byline: 'By Azal',
     footer: 'This platform is dedicated to Muhannad Al-Sayani, the director of the Yemeni General Organization of Antiquities and Museums (GOAM), whose list of sites made this research possible. Al-Sayani passed away on August 10, 2020 at age 58. This project intends to continue his legacy by expanding once there is further documetation of site destruction or damage. He will be sorely missed.',
     chapters: [
